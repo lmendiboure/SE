@@ -44,3 +44,5 @@
 	* test $param1
 	* _Note : Pour qu'une fonction puisse utiliser des paramètres ($1, $2, etc.) on n'oublie pas de les passer en paramètre !_
 
+* La récursivité :
+	* function test(){ test; }
