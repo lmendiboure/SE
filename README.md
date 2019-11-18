@@ -46,3 +46,6 @@
 
 * La récursivité :
 	* function test(){ test; }
+
+* Boucle impérative :
+	*   for i in `seq 1 $1`; do ; ... ; done
